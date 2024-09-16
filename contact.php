@@ -1,3 +1,6 @@
+<?php
+    echo 'oui';
+?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -6,6 +9,7 @@
     <title>Document</title>
 </head>
 <body>
+    <form action="" method="post"></form>
     <p>test</p>
 </body>
 </html>
